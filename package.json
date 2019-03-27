@@ -1,0 +1,15 @@
+{
+  "name": "TFS_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": "https://github.com/JuliaRudi13/TFS_bot.git",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Julia Rudinskaya <ru.jula@rambler.ru>",
+  "license": "ISC",
+  "dependencies": {
+    "telegraf": "^3.27.1"
+  }
+}
